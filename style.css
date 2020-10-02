@@ -165,15 +165,3 @@ margin: 100px auto;
   margin: 10px 20px;
   text-decoration: none;
 }
-.github:hover{
-  color: black;
-}
-.linkedin{
-  color: #EAF6F6;
-  font-family: Montserrat,sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
-.linkedin:hover{
-  color: #0073bb;
-}
